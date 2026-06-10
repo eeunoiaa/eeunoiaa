@@ -1,9 +1,29 @@
+<p align="center"> 
+ <img src="https://komarev.com/ghpvc/?username=labsenct&color=8cadad&style=Zen+Old+Mincho&duration=flat&label=⋆˚꩜｡"/>
+
+<p align="center">
 
 <div align="center">
-<img src="https://files.catbox.moe/52l0z3.webp" alt="image"/>
+<img src="https://ik.imagekit.io/ctyynkgxa/Untitled22_20260610122600.png" alt="image"/>
+
 </div>
+<p align="center">
+${
+\color{#9cdbda}6teen\
+\color{#2a599c}.✦ ݁˖\
+\color{#996783}any\
+\color{#9cdbda}pronouns .\
+\color{#2a599c} 𓏵‧₊˚ ┊\
+\color{#996783}artist\
+\color{#9cdbda}⸝⸝\
+\color{#2a599c}finn\
+\color{#996783}kin\
+}$
+</p>
 
-<p align="center"><a
-href="https://labsenct.atabook.org"
-
-atabook
+</p>
+<p align="center">⠀
+  <a href="https://labsenct.atabook.org/">atabook</a>　
+  <a href="https://finnagan.carrd.co/">carrd</a>　
+  <a href="https://tunalab.straw.page/">strawpage</a>　
+</p>
