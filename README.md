@@ -16,8 +16,8 @@ ${
 \color{#2a599c} 𓏵‧₊˚ ┊\
 \color{#996783}artist\
 \color{#9cdbda}⸝⸝\
-\color{#2a599c}finn\
-\color{#996783}kin\
+\color{#2a599c}audhd\
+\color{#996783}+ mdd\
 }$
 </p>
 
