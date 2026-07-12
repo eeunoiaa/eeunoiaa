@@ -24,6 +24,6 @@ ${
 </p>
 <p align="center">⠀
   <a href="https://labsenct.atabook.org/">atabook</a>　
-  <a href="https://finnagan.carrd.co/">carrd</a>　
+  <a href="https://rentry.co/disuacarded">rentry</a>　
   <a href="https://limegineer.straw.page">strawpage</a>　
 </p>
